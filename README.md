@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hello! I'm Emily Vu <span><img src="https://user-images.githubusercontent.com/35549653/89557319-91e4e500-d84d-11ea-9566-47a14f57b06c.gif" width="35" height="35"><span>
 
 
