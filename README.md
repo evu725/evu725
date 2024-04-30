@@ -4,8 +4,6 @@
 <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/446.gif?raw=true">
 </p>
 
-<br>
-
 <!-- Intro -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
