@@ -21,7 +21,7 @@
     <br>
 
 <samp>
-Interested In Full-stack Dev & Software Engineer
+Interested In Full-stack Dev & UXUI Design
     <br>
     e-mail me! ev326@rutgers.edu
     <br>
