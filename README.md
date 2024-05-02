@@ -18,12 +18,16 @@
     <br>
   </samp>
     <br>
-    <br>
-
+        
 </p>
 
 
 
+## Projects
+### 2024
+#### Own Projects
+
+- [Weather Website]() - Web Frontend
 
 
 
