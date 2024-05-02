@@ -20,14 +20,6 @@
     <br>
     <br>
 
-<samp>
-Interested In Full-stack Dev & UXUI Design
-    <br>
-    e-mail me! ev326@rutgers.edu
-    <br>
-</samp>
-<br />
-
 </p>
 
 
