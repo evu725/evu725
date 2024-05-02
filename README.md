@@ -23,7 +23,7 @@
 
 
 
-## Projects
+## ⛓ Projects
 ### 2024
 #### Own Projects
 
