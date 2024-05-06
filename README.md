@@ -26,9 +26,11 @@
 ## ⛓ Projects
 ### 2024
 #### Own Projects
+- Coming Soon...
 
+<!--
 - [Weather Website]() - Web Frontend
-
+-->
 
 
 
