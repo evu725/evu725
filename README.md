@@ -21,6 +21,14 @@
 </div>
 
 <div align="center">
+  <samp>
+    <h1>Projects</h1>
+    • <a href="https://full-stack-project-remix-evu725.onrender.com">Expense Tracker App</a><br>
+    • <a href="https://solea-emily-mls.github.io/mod-4-project/">Artly</a>
+  </samp>
+</div>
+
+<div align="center">
 <h3><samp>Reach out!</samp></h3>
 <p>
   <samp>
